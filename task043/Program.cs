@@ -16,7 +16,7 @@ void IntersectionLinesPoint(double k1, double b1, double k2, double b2)
     }
 }
 
-//Console.Clear();
+Console.Clear();
 Console.WriteLine("Две прямые заданы уравнениями");
 Console.WriteLine("y = k1 * x + b1");
 Console.WriteLine("y = k2 * x + b2");
